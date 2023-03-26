@@ -1,2 +1,2 @@
 # Number Guesser
-Educational projects of simple number guessing app using C# basics.
+Educational project of simple number guessing app using C# basics.
